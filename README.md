@@ -1,4 +1,4 @@
-#<h1>i2c Module for Qsys
+# i2c Module for Qsys
 
 By Vincent Gosselin, 2017.
 
